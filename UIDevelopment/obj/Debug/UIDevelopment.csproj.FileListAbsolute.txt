@@ -1,0 +1,10 @@
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\bin\Debug\UIDevelopment.exe.config
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\bin\Debug\UIDevelopment.exe
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\bin\Debug\UIDevelopment.pdb
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.Form1.resources
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.Properties.Resources.resources
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.csproj.GenerateResource.cache
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.exe
+C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.pdb

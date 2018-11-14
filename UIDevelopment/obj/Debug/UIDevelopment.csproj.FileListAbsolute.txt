@@ -8,3 +8,13 @@ C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.c
 C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.csproj.CoreCompileInputs.cache
 C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.exe
 C:\Users\Mull\source\repos\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.pdb
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\bin\Debug\UIDevelopment.exe.config
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\bin\Debug\UIDevelopment.exe
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\bin\Debug\UIDevelopment.pdb
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.csprojAssemblyReference.cache
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.Form1.resources
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.Properties.Resources.resources
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.csproj.GenerateResource.cache
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.exe
+C:\Users\mull.codes\Documents\GitHub\UIDevelopment\UIDevelopment\obj\Debug\UIDevelopment.pdb
